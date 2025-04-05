@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Solutions to scale your business and save money
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+I can help you to build cost optimized solutions that scale your business.

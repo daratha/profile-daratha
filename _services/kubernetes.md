@@ -7,4 +7,9 @@ weight: 2
 
 
 
-Architect and build Kubernetes statements
+Architect and build Kubernetes clusters for your business.
+
+Build Kubernetes clusters for your business in AWS ECS and Google GKE.
+
+
+
