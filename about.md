@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+#![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
 With over 15 years of experience as a Software Engineer, I have worked across diverse environments in Sri Lanka, Malaysia, and Sweden, designing scalable systems that solve complex challenges and empower teams. My focus is on creating impactful data-driven solutions, fostering collaboration, and promoting engineering excellence.
 <br>
@@ -24,12 +24,10 @@ Commitment to Quality: Passionate about applying engineering best practices, ens
 <br>
 Passion for Innovation 
 I am driven by a curiosity to explore how technology can solve problems and create meaningful outcomes. Whether integrating advanced tools, improving processes, or mentoring teams, I approach challenges with a focus on innovation and impact.
-
 <br>
 <br>
 Outside of Work 
 I enjoy traveling with my family and experiencing different cultures, a passion that reflects my belief in embracing diversity.
-
 <br>
 <br>
 Let’s Connect! 
