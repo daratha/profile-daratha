@@ -35,7 +35,7 @@ defaults:
       path: ""
       type: "blog"
     values:
-      layout: "blog"
+      layout: "post"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
