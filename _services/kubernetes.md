@@ -6,10 +6,13 @@ weight: 2
 
 
 
+## Seamless Container Management on AWS & GCP
+Deploying and managing applications should be effortless. We set up highly available, auto-scaling Kubernetes clusters on AWS or GCP, so your apps run smoothly without infrastructure headaches.
 
-Architect and build Kubernetes clusters for your business.
-
-Build Kubernetes clusters for your business in AWS ECS and Google GKE.
-
+✅ Kubernetes setup & configuration
+<br>
+✅ Cloud-agnostic deployments (AWS/GCP)
+<br>
+✅ Automated scaling for peak performance
 
 
