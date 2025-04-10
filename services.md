@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Solutions to scale your business and save money
+
+# Grow Faster, Spend Less: Cloud-Efficient Solutions
 
 I can help you to build cost optimized solutions that scale your business.
