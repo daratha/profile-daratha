@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 
 
-#![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+<!--#![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)-->
 
 With over 15 years of experience as a Software Engineer, I have worked across diverse environments in Sri Lanka, Malaysia, and Sweden, designing scalable systems that solve complex challenges and empower teams. My focus is on creating impactful data-driven solutions, fostering collaboration, and promoting engineering excellence.
 <br>
