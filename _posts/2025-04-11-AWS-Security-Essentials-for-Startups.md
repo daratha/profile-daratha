@@ -3,8 +3,8 @@ layout: post
 title:  "AWS Security Essentials for Startups: 7 Critical Best Practices"
 ---
 
-# AWS Security Essentials for Startups: 7 Critical Best Practices
-<br>
+
+![](/images/security_001.jpg)
 Security is critical for startups on AWS—one misconfiguration can lead to data breaches, compliance violations, or unexpected costs. Here’s a no-fluff security checklist every startup should implement.
 <br><br>
 
@@ -61,7 +61,7 @@ Review findings weekly.
 ## 5. Enable AWS Config for Compliance Monitoring<br>
 Why? Tracks configuration changes and detects drift.<br>
 
-### Action:<br>
+### Action:
 Turn on AWS Config with managed rules (e.g., s3-bucket-public-read-prohibited).
 
 
@@ -72,7 +72,8 @@ Turn on AWS Config with managed rules (e.g., s3-bucket-public-read-prohibited).
 ## 6. Restrict Public Access to S3 & EC2<br>
 Why? Publicly exposed storage/instances are hacker magnets.<br>
 
-Action:
+### Action:
+
 
 Block S3 public access at the account level.
 
@@ -86,7 +87,6 @@ Use security groups to restrict EC2 inbound traffic.
 Why? Unpatched software = easy exploits.<br>
 
 ### Action:
-<br>
 
 Use AWS Systems Manager Patch Manager.
 
@@ -110,4 +110,5 @@ Consolidates findings from GuardDuty, Inspector, Config into one dashboard.
 <br>
 
 Need help securing your AWS setup? Contact us get a free security advise.
+<br>
 

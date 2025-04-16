@@ -9,7 +9,7 @@ show_call_box: true
 ---
 
 # Daratha Galkissa
-I help companies build better cloud systems. 
+I help companies to build better cloud systems. 
 <br><br>
 With 15 years in software development and specialized expertise in cloud architecture, Kubernetes, and data platforms, I combine technical skills with practical business understanding.
 <br><br>

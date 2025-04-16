@@ -8,6 +8,13 @@
       "name": "Email",
       "link": "daratha@gmail.com",
       "image": "images/social/email.svg"
+  },
+  {
+      "name": "Linkedin",
+      "link": "https://www.linkedin.com/in/daratha",
+      "image": "images/social/linkedin.svg"
+
   }
+
 
 ]
